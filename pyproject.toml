@@ -1,0 +1,14 @@
+[project]
+name = "stablecascaderesizer"
+description = "Nodes:Cascade_Resizer"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/angeloshredder/StableCascadeResizer"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "StableCascadeResizer"
+Icon = ""
